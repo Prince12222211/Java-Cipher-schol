@@ -1,0 +1,9 @@
+The difference between public and private 
+=>In private we can use the object in the class only.
+=>In public we can use the member in anywere 
+
+#.Settter function=> In setter function we use the set something
+#.Abstraction=Its means the hide the data from the user 
+#Encapsulation=wrapping the data in the sinle unit.
+#inheritence= the value from the parents
+#polymorphism=
